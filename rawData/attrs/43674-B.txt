@@ -2,3 +2,6 @@ DAM
 Toppar
 Linnen
 Linne i viskos
+#ffffff
+#c0c0c0
+#404040

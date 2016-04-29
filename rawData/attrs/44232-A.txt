@@ -2,3 +2,4 @@ DAM
 Party
 Nederdelar
 Paljettkjol
+#c0c0c0

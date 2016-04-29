@@ -2,3 +2,4 @@ DAM
 Skjortor & Blusar
 Blusar
 Broderad cold shoulder-blus
+#ffffff

@@ -2,3 +2,5 @@ DAM
 Kjolar
 Medell?nga kjolar
 Kn?l?ng jeanskjol
+#c0c0c0
+#404040

@@ -2,3 +2,6 @@ DAM
 Shorts
 Jeansshorts
 Broderade jeansshorts
+#404040
+#004c99
+#ccccff

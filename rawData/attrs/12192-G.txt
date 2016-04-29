@@ -2,3 +2,5 @@ DAM
 Everyday Fashion
 Byxor & Jeans
 Superstretchbyxa
+#404040
+#c0c0c0

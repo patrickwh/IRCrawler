@@ -2,3 +2,5 @@ DAM
 Kjolar
 Korta kjolar
 Kort jeanskjol
+#cce5ff
+#c0c0c0

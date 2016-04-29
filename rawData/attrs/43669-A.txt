@@ -2,3 +2,5 @@ DAM
 Kjolar
 L?nga kjolar
 M?nstrad l?ngkjol
+#404040
+#c0c0c0

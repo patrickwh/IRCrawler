@@ -2,3 +2,8 @@ DAM
 Kjolar
 Medell?nga kjolar
 Klockad kjol
+#990000
+#404040
+#c0c0c0
+#ffcccc
+#ffe5cc

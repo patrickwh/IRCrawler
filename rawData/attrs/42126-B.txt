@@ -3,3 +3,6 @@ Divided
 Toppar
 Crop tops
 Kort off shoulder-topp
+#c0c0c0
+#404040
+#ffffff

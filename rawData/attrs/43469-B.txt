@@ -2,3 +2,7 @@ DAM
 Divided
 Kl?nningar & Jumpsuits
 M?nstrad jumpsuit
+#ffe5cc
+#994c00
+#ffcccc
+#c0c0c0

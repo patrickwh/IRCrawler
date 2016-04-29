@@ -2,3 +2,5 @@ DAM
 Divided
 Kl?nningar & Jumpsuits
 M?nstrad jumpsuit
+#404040
+#c0c0c0

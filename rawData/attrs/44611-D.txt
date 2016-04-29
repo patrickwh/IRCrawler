@@ -2,3 +2,5 @@ DAM
 Divided
 Kl?nningar & Jumpsuits
 Jumpsuit
+#c0c0c0
+#99004c

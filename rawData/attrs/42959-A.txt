@@ -2,3 +2,6 @@ DAM
 Kjolar
 Korta kjolar
 Kort jeanskjol
+#c0c0c0
+#404040
+#ccccff

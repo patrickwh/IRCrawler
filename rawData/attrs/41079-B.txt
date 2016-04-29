@@ -2,3 +2,4 @@ DAM
 Kjolar
 Medell?nga kjolar
 Kjol i sidenmix med spetsar
+#ffe5cc

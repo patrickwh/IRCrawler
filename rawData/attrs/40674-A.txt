@@ -2,3 +2,5 @@ DAM
 Skor
 Sneakers
 Plat?sneakers
+#ffffff
+#c0c0c0

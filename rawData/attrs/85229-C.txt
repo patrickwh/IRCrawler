@@ -2,3 +2,5 @@ DAM
 Modern Classics
 Kjolar
 Strukturm?nstrad kjol
+#404040
+#ffffff

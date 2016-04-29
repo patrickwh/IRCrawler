@@ -3,3 +3,5 @@ Divided
 Basics
 Joggers & Sweatpants
 Joggers
+#c0c0c0
+#404040

@@ -2,3 +2,4 @@ DAM
 Kjolar
 Korta kjolar
 Draperad kjol
+#c0c0c0

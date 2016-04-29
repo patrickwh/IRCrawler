@@ -2,3 +2,5 @@ DAM
 Divided
 Kl?nningar & Jumpsuits
 Off shoulderjumpsuit
+#404040
+#99004c

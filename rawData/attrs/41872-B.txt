@@ -3,3 +3,5 @@ Accessoarer
 Hattar/Scarves/Handskar
 Hattar/M?ssor
 Bomullskeps
+#cce5ff
+#c0c0c0

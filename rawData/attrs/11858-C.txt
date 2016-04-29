@@ -2,3 +2,5 @@ DAM
 Byxor
 Leggings
 M?nstrade jazzbyxor
+#404040
+#99004c

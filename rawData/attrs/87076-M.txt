@@ -2,3 +2,5 @@ HERR
 Casual
 Shorts
 Chinosshorts
+#c0c0c0
+#ffffff

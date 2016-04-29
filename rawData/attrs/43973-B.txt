@@ -2,3 +2,5 @@ DAM
 Toppar
 Crop tops
 Virkad topp
+#404040
+#ffffff

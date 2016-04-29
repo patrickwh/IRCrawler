@@ -2,3 +2,4 @@ DAM
 Kjolar
 Korta kjolar
 Jeanskjol
+#ffffff

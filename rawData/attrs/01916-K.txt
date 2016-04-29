@@ -2,3 +2,5 @@ DAM
 Byxor
 Loose
 Byxa Loose fit
+#404040
+#c0c0c0

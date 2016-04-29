@@ -2,3 +2,5 @@ DAM
 Divided
 Kl?nningar & Jumpsuits
 Maxikl?nning
+#ffffff
+#ffe5cc

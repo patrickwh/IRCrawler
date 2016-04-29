@@ -2,3 +2,5 @@ DAM
 Kjolar
 Korta kjolar
 M?nstrad kjol
+#404040
+#99004c

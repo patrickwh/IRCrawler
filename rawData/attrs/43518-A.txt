@@ -2,3 +2,6 @@ DAM
 Accessoarer
 Solglas?gon
 Hj?rtformade solglas?gon
+#009999
+#404040
+#ffffff

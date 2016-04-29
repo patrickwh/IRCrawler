@@ -2,3 +2,5 @@ DAM
 Toppar
 Crop tops
 Trik?linne
+#404040
+#c0c0c0

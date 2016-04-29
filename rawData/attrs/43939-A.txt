@@ -2,3 +2,5 @@ HERR
 Casual
 Skjortor
 Rutig skjorta i linnemix
+#404040
+#c0c0c0

@@ -2,3 +2,5 @@ DAM
 Byxor
 Loose
 Linnebyxa
+#404040
+#c0c0c0
