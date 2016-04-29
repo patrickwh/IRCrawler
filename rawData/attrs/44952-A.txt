@@ -2,4 +2,3 @@ DAM
 Kjolar
 Korta kjolar
 Tyllkjol
-Tyllkjol

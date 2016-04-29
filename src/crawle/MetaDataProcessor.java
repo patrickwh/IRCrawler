@@ -101,7 +101,7 @@ public class MetaDataProcessor {
 				if (!attrFile.exists())
 					attrFile.createNewFile();
 				FileWriter fw = new FileWriter(attrFile);
-				for (int i = 1; i < catNum; i++) {
+				for (int i = 1; i < catNum - 1; i++) {
 					fw.write(catArray[i]);
 					fw.write("\r\n");
 				}
@@ -152,13 +152,22 @@ public class MetaDataProcessor {
 	}
 
 	public static void main(String[] args) {
-		// MetaDataProcessor dataProcessor = new MetaDataProcessor();
-		// dataProcessor.parseAllHtml();
+		MetaDataProcessor dataProcessor = new MetaDataProcessor();
+		dataProcessor.parseAllHtml();
 		File root = new File(IMG_FOLDER);
 		File[] files = root.listFiles();
-		DominantColorsFinder dcf = new DominantColorsFinder(new File("./rawData/test.jpg"),
-				new File("./rawData/test.txt"));
-		dcf.processThePic();
+		int n = 0;
+		for (File f : files) {
+			String name = f.getName();
+			String ext = ".jpg";
+			File attrf = new File(ARTTRIBUTES_FOLDER + "/" + name.substring(0, name.length() - ext.length()) + ".txt");
+			if (!attrf.exists())
+				System.err.println("no such file" + attrf.getName());
+			DominantColorsFinder dcf = new DominantColorsFinder(f, attrf);
+			dcf.processThePic();
+			System.out.println(n + " finished");
+			n++;
+		}
 	}
 
 }

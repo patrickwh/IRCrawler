@@ -2,4 +2,3 @@ DAM
 Byxor
 Slim
 Treggings
-Treggings

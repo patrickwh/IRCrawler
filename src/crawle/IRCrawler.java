@@ -2,7 +2,6 @@ package crawle;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.UUID;
 import java.util.regex.Pattern;
 
 import com.google.common.io.Files;
@@ -82,15 +81,20 @@ public class IRCrawler extends WebCrawler {
 			String html = htmlParseData.getHtml();
 
 			String extension = ".html";
-			String hashName = UUID.randomUUID() + extension;
+			String s = "article=";
+			String str = url.substring(url.indexOf(s) + s.length());
+			String id = str + extension;
 
-			String fileName = HTML_FOLDER + "/" + hashName;
+			String fileName = HTML_FOLDER + "/" + id;
 			File root = new File(HTML_FOLDER);
 			if (!(root.exists()))
 				root.mkdirs();
 			String data = url + "\r\n" + html;
 			try {
-				Files.write(data.getBytes(), new File(fileName));
+				File file = new File(fileName);
+				if (file.exists())
+					return;
+				Files.write(data.getBytes(), file);
 				logger.info("Stored: {}", url);
 			} catch (IOException iox) {
 				System.err.println("Failed to write file: " + fileName);

@@ -2,4 +2,4 @@ DAM
 Kjolar
 Korta kjolar
 Strukturm?nstrad kjol
-Strukturm?nstrad kjol
+#404040

@@ -2,4 +2,4 @@ DAM
 Kjolar
 Medell?nga kjolar
 Omlottkjol
-Omlottkjol
+#404040
